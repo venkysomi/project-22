@@ -1,5 +1,5 @@
 # jaoo
-Java and Object-Oriented programming ===========================
+Java and Object-Oriented programming =========================== Hi I'm somi venkatesh
 
 A Java project that requires
 - Maven
